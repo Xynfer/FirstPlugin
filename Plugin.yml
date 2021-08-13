@@ -1,0 +1,9 @@
+name: Plugin
+version: 1.0.0
+api-version: 3.12.0
+main: Xynfer/HelloWrld/Main
+author: Xynfer
+
+commands:
+  hello:
+    description: Says Hello Back
